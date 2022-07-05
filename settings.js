@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is ACX🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is samith dilshan😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94742265843'] //Owner number in aive msg
 global.premium = ['+94742265843'] //Owner Number info
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_SAMITH.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA' //Github Account!
+global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
